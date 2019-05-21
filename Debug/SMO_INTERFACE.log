@@ -1,0 +1,49 @@
+﻿Build started 16.12.2015 12:28:48.
+Project "C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\SMO_INTERFACE\SMO_INTERFACE.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Creating "Debug\SMO_INTERFACE.unsuccessfulbuild" because "AlwaysCreate" was specified.
+GenerateTargetFrameworkMonikerAttribute:
+Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+ClCompile:
+  All outputs are up-to-date.
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\SMO_INTERFACE.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt SMO_INTERFACE.cpp /clr:nostdlib 
+  SMO_INTERFACE.cpp
+c:\documents and settings\user\my documents\visual studio 2010\projects\smo_interface\FunctionalModule.h(148): warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\user\my documents\visual studio 2010\projects\smo_interface\FunctionalModule.h(157): warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\user\my documents\visual studio 2010\projects\smo_interface\FunctionalModule.h(169): warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\user\my documents\visual studio 2010\projects\smo_interface\FunctionalModule.h(176): warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\user\my documents\visual studio 2010\projects\smo_interface\FunctionalModule.h(243): warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\user\my documents\visual studio 2010\projects\smo_interface\FunctionalModule.h(252): warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\user\my documents\visual studio 2010\projects\smo_interface\FunctionalModule.h(274): warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\user\my documents\visual studio 2010\projects\smo_interface\FunctionalModule.h(300): warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\user\my documents\visual studio 2010\projects\smo_interface\Form1.h(550): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\documents and settings\user\my documents\visual studio 2010\projects\smo_interface\Form1.h(624): warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\user\my documents\visual studio 2010\projects\smo_interface\Form1.h(635): warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\user\my documents\visual studio 2010\projects\smo_interface\Form1.h(641): warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\user\my documents\visual studio 2010\projects\smo_interface\Form1.h(651): warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\user\my documents\visual studio 2010\projects\smo_interface\Form1.h(657): warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\user\my documents\visual studio 2010\projects\smo_interface\Form1.h(668): warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\user\my documents\visual studio 2010\projects\smo_interface\Form1.h(955): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  All outputs are up-to-date.
+CoreResGen:
+  "C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\NETFX 4.0 Tools\resgen.exe" /useSourcePath /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /compile Form1.resX,Debug\SMO_INTERFACE.Form1.resources
+  Processing resource file "Form1.resX" into "Debug\SMO_INTERFACE.Form1.resources".
+ResourceCompile:
+  All outputs are up-to-date.
+Link:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\SMO_INTERFACE\Debug\SMO_INTERFACE.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\SMO_INTERFACE.Form1.resources /MANIFEST /ManifestFile:"Debug\SMO_INTERFACE.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\SMO_INTERFACE\Debug\SMO_INTERFACE.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+  Debug\AssemblyInfo.obj
+  Debug\SMO_INTERFACE.obj
+  Debug\stdafx.obj
+  "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+  SMO_INTERFACE.vcxproj -> C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\SMO_INTERFACE\Debug\SMO_INTERFACE.exe
+Manifest:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\SMO_INTERFACE\Debug\SMO_INTERFACE.exe;#1" /manifest Debug\SMO_INTERFACE.exe.intermediate.manifest
+FinalizeBuildStatus:
+  Deleting file "Debug\SMO_INTERFACE.unsuccessfulbuild".
+  Touching "Debug\SMO_INTERFACE.lastbuildstate".
+Done Building Project "C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\SMO_INTERFACE\SMO_INTERFACE.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.63
